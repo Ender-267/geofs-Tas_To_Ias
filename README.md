@@ -6,3 +6,7 @@ Changes GeoFS to use indicated airspeed instead of true airspeed
 - Adds flight data display to show TAS, IAS, ground speed, mach and altitude.
 - Changes autopilot to work with IAS instead of TAS.
 - Changes instruments (both 2d and cockpit) to display IAS.
+
+# Instalation
+
+Download userscrpt.js and load with tampermonkey/greasemonkey.
